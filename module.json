@@ -1,6 +1,6 @@
 {
-  "id": "variachels-playlist-compendium-test",
-  "title": "Variachel's Playlist Compendium Test",
+  "id": "variachels-playlist-compendium",
+  "title": "Variachel's Playlist Compendium",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
