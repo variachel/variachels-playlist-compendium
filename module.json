@@ -1,0 +1,32 @@
+{
+  "id": "variachels-playlist-compendium-test",
+  "title": "Variachel's Playlist Compendium Test",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "variachel",
+      "discord": "Variachel",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "playlists",
+      "label": "Playlists",
+      "path": "packs/playlists",
+      "type": "Playlist",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "NONE",
+        "GAMEMASTER": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
