@@ -25,6 +25,16 @@
         "ASSISTANT": "NONE",
         "GAMEMASTER": "OWNER"
       },
+      "packFolders": [
+        {
+          "name": "Variachel's Playlists",
+          "sorting": "a",
+          "color": "#196e1e",
+          "packs": [
+            "playlists"
+          ]
+        }
+      ],
       "system": "pf2e",
       "flags": {}
     }
