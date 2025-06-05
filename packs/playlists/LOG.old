@@ -1,5 +1,8 @@
-2024/06/15-00:55:39.310491 30d1d1000 Delete type=3 #1
-2024/06/15-01:04:13.468730 306143000 Level-0 table #5: started
-2024/06/15-01:04:13.468751 306143000 Level-0 table #5: 0 bytes OK
-2024/06/15-01:04:13.468837 306143000 Delete type=0 #3
-2024/06/15-01:04:13.469848 306143000 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2024/12/24-17:11:11.367511 30bc43000 Recovering log #350
+2024/12/24-17:11:11.368087 30bc43000 Delete type=3 #348
+2024/12/24-17:11:11.368180 30bc43000 Delete type=0 #350
+2024/12/24-17:32:09.502631 305b37000 Level-0 table #355: started
+2024/12/24-17:32:09.502747 305b37000 Level-0 table #355: 0 bytes OK
+2024/12/24-17:32:09.502986 305b37000 Delete type=0 #353
+2024/12/24-17:32:09.503433 305b37000 Manual compaction at level-0 from '!playlists!QP0MU7Rm1zfh7vkd' @ 72057594037927935 : 1 .. '!playlists.sounds!QP0MU7Rm1zfh7vkd.zw0oMZBLrzhZg61m' @ 0 : 0; will stop at (end)
+2024/12/24-17:32:09.503461 305b37000 Manual compaction at level-1 from '!playlists!QP0MU7Rm1zfh7vkd' @ 72057594037927935 : 1 .. '!playlists.sounds!QP0MU7Rm1zfh7vkd.zw0oMZBLrzhZg61m' @ 0 : 0; will stop at (end)
