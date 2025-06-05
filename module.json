@@ -1,10 +1,10 @@
 {
   "id": "variachels-playlist-compendium",
   "title": "Variachel's Playlist Compendium",
-  "version": "1.0.0",
+  "version": "13.0.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "12"
+    "verified": "13"
   },
   "authors": [
     {
@@ -25,18 +25,21 @@
         "ASSISTANT": "NONE",
         "GAMEMASTER": "OWNER"
       },
-      "packFolders": [
-        {
-          "name": "Variachel's Playlists",
-          "sorting": "a",
-          "color": "#196e1e",
-          "packs": [
-            "playlists"
-          ]
-        }
-      ],
       "system": "pf2e",
       "flags": {}
     }
-  ]
+  ],
+  "packFolders": [
+    {
+      "name": "Variachel's Playlists",
+      "sorting": "a",
+      "color": "#ce4e09",
+      "packs": [
+        "playlists"
+      ]
+    }
+  ],
+  "url": "https://https://github.com/variachel/variachels-playlist-compendium",
+  "manifest": "https://https://github.com/variachel/variachels-playlist-compendium/releases/latest/download/module.json",
+  "download": "https://https://github.com/variachel/variachels-playlist-compendium/archive/v13.0.0.zip"
 }
